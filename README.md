@@ -1,1 +1,1 @@
-# go_rabbitmq
+go_proxy
