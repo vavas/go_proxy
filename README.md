@@ -1,1 +1,1 @@
-go_proxy
+go_gateway
